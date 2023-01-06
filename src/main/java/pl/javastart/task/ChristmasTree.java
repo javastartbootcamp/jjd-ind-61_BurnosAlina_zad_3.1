@@ -1,13 +1,13 @@
 package pl.javastart.task;
 
 public class ChristmasTree {
-    String Colour;
-    double Height;
+    String colour;
+    double height;
     int christmasBallsNumber;
 
-    ChristmasTree(String treeColourN, double treeHightN, int christmasBallsNumberN) {
-        Colour = treeColourN;
-        Height = treeHightN;
+    ChristmasTree(String ColourN, double HightN, int christmasBallsNumberN) {
+        colour = ColourN;
+        height = HightN;
         christmasBallsNumber = christmasBallsNumberN;
     }
 }
