@@ -5,9 +5,9 @@ public class ChristmasTree {
     double height;
     int christmasBallsNumber;
 
-    ChristmasTree(String ColourN, double HightN, int christmasBallsNumberN) {
-        colour = ColourN;
-        height = HightN;
+    ChristmasTree(String colourN, double hightN, int christmasBallsNumberN) {
+        colour = colourN;
+        height = hightN;
         christmasBallsNumber = christmasBallsNumberN;
     }
 }
